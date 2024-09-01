@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: server
-        image: alonithuji/netflix-app:v1.0.14
+        image: loaykewan/netflix-movie-catalog-prod:v1.0.8
 ---
 apiVersion: v1
 kind: Service
